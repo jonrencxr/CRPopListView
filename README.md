@@ -1,6 +1,6 @@
 > ## CRPopListView
 >
-![gif](http://a2.qpic.cn/psb?/V10nh09W1XRDun/If3JxDcb7nBDYiKUz5uj5WPPAAqB9pSVXemXot3GvS8!/c/dAwBAAAAAAAA&bo=OwE1AgAAAAACBy4!&rf=viewer_4"操作演示")
+![gif](file:///Users/Jonren/Documents/myFiles/MyWorks/2016822172655243.gif"操作演示")
 ## 一、功能介绍
 #####1. 点击弹出下拉列表框，常见、易用、易扩展。
 #####2. CRPopListView初始化极其简单，只要实例化并附带按钮标题及列表数据数组即可。
