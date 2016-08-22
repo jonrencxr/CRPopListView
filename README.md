@@ -20,3 +20,4 @@
     CRPopListView *view = [[CRPopListView alloc] initWithFrame:frame title:@"这是标题" items:items];
     view.backgroundColor = [UIColor brownColor];
     [self.view addSubview:view];
+#####3. 输出CRPopListView选中行：view.selectedIndex, 选中字符串：view.result.
